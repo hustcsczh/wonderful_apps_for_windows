@@ -5,9 +5,9 @@
 
 3—— geek 好用的卸载工具
 
-4—— typora补丁  安装成功后只需点击补丁文件几秒后重启应用即可
+4—— typora轻量级markdown文本编辑器+补丁  安装成功后只需点击补丁文件几秒后重启应用即可
 
-5——listary 全局搜索工具    下载地址：[Listary – Free File Search Tool & App Launcher](https://www.listary.com/)
+5——listary 全局搜索工具双击ctrl呼出搜索框    下载地址：[Listary – Free File Search Tool & App Launcher](https://www.listary.com/)
 
 6——listen 1 免费的听歌神器，支持所以主流音乐播放器登录同步，下载地址：[Listen 1 音乐播放器](https://listen1.github.io/listen1/)
 
