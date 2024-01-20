@@ -11,3 +11,5 @@
 
 6——listen 1 免费的听歌神器，支持所以主流音乐播放器登录同步，下载地址：[Listen 1 音乐播放器](https://listen1.github.io/listen1/)
 
+7——todesk 远程控制工具，下载地址：https://www.todesk.com/
+
