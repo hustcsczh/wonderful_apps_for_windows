@@ -12,9 +12,6 @@
 
 6——listen 1 免费的听歌神器，支持所以主流音乐播放器登录同步，下载地址：[Listen 1 音乐播放器](https://listen1.github.io/listen1/)
 
-<<<<<<< HEAD
 7——translucentTB 状态栏美化工具
-=======
-7——todesk 远程控制工具，下载地址：https://www.todesk.com/
 
->>>>>>> 640a9f88822438a634a39aa468d47595f44fe97f
+8——todesk 远程控制工具，下载地址：https://www.todesk.com/
