@@ -1,4 +1,4 @@
-# cracked_apps_for_windows
+# wonderful_apps_for_windows
 
 1—— bandizip 解压缩工具（专业版） 打开下载文件，找到此图标[bandizip](https://github.com/hustcsczh/cracked_apps_for_windows/assets/145318164/a4d1d85f-d044-4ec3-ba67-b60f5366de47)安装即可
 
