@@ -1,12 +1,12 @@
 # cracked_apps_for_windows
 
-1—— bandizip 专业版 打开下载文件，找到此图标[bandizip](https://github.com/hustcsczh/cracked_apps_for_windows/assets/145318164/a4d1d85f-d044-4ec3-ba67-b60f5366de47)，在桌面创建快捷方式即可
+1—— bandizip 解压缩工具（专业版） 打开下载文件，找到此图标[bandizip](https://github.com/hustcsczh/cracked_apps_for_windows/assets/145318164/a4d1d85f-d044-4ec3-ba67-b60f5366de47)安装即可
 
-2—— IDM 安装包和激活工具安装成功后点击另外一个命令行文件（.cmd 结尾）按照指示点击即可
+2—— IDM 下载工具 安装包和激活工具安装成功后点击另外一个命令行文件（.cmd 结尾）按照指示点击即可
 
-3—— geek 好用的卸载工具
+3—— geek 好用的卸载工具（轻松删除各种流氓软件，包括注册表的清除）
 
-4—— typora 轻量级 markdown 文本编辑器+补丁 安装成功后只需点击补丁文件几秒后重启应用即可
+4—— typora 轻量级 markdown 文本编辑器+补丁 安装后双击打开补丁文件即可（补丁版本不稳定，每次出现许可证到期就再次点击补丁）
 
 5——listary 全局搜索工具双击 ctrl 呼出搜索框 下载地址：[Listary – Free File Search Tool & App Launcher](https://www.listary.com/)
 
