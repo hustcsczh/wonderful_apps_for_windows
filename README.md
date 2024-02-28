@@ -18,7 +18,7 @@
 
 9——科学上网 第一步：下载Clash Verge   https://downlond.78321.xyz/Clash.Verge_1.4.7_x86-set	up.exe 
 
-​	第二步：购买节点[购买订阅 | 三毛机场 (smjcdh.com)](https://smjcdh.com/#/plan) 
+​	第二步：购买节点[购买订阅 | 三毛机场 (smjcdh.com)](https://smjcdh.com/#/plan) orhttps://smjcdh.com/#/register?code=SCExWauY
 
 ​	第三步：照着网站教程做 
 
