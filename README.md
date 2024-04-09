@@ -31,7 +31,7 @@
 
 
 ## 8——rianmeter（雨滴组件）
-桌面美化工具，搭配translucentTB,并清除图标后![](zhuomian.png)
+桌面美化工具，搭配translucentTB,并清除图标后![实例](zhuomian.png)
 
 
 1. [下载地址](https://www.rainmeter.net/)
