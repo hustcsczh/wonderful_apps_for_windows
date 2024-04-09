@@ -33,13 +33,15 @@
 桌面美化工具，搭配translucentTB,并清除图标后![效果如图](zhuomian.png)
 
 
-[下载地址](https://www.rainmeter.net/)) 美化资源包：[致美化](https://zhutix.com/) [详细教程](https://www.bilibili.com/video/BV1N5411x7KP?vd_source=2ee8be690e69388103d06a45d4542f6a)
+1. [下载地址](https://www.rainmeter.net/)
+2. 美化资源包：[致美化](https://zhutix.com/)
+3.  [详细教程](https://www.bilibili.com/video/BV1N5411x7KP?vd_source=2ee8be690e69388103d06a45d4542f6a)
 
-## 8——todesk 
+## 9——todesk 
 远程控制工具 
 [下载地址](https://www.todesk.com/)
 
-## 9——clash
+## 10——clash
 ~~科学上网工具🫢~~
 
 1. 下载[Clash Verge](https://downlond.78321.xyz/Clash.Verge_1.4.7_x86-setup.exe)
