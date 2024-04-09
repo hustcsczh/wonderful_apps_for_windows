@@ -18,6 +18,8 @@
 
 ## 5——listary 
 全局搜索工具双击 `ctrl` 呼出搜索框
+
+可用作文件查找，软件打开工具，不用点击桌面图标
  [下载地址](https://www.listary.com/)
 
 ## 6——listen 1
