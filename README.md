@@ -6,8 +6,8 @@
 解压缩工具(专业版🙈)打开下载的文件，找到`bandizip.exe`双击即可
 
 ## 2—— IDM 
-下载工具 安装包和激活工具安装
-点击另外一个命令行文件`.cmd` 结尾按照指示点击即可(==不建议更新==)
+下载工具 安装包和激活工具安装  [详细教程](https://lx87mmrw61t.feishu.cn/docx/UsKUdOO8EoP9EWxt6iycduNCnpc)
+点击另外一个命令行文件`.cmd` 结尾按照指示点击即可
 
 ## 3——geek 
 好用的`卸载工具`（轻松删除各种流氓软件，包括注册表的清除）
@@ -27,6 +27,12 @@
 ## 7——translucentTB
 状态栏美化工具🤩
  [下载地址](https://translucenttb.com/download/)
+
+
+## 8——rianmeter（雨滴组件）
+桌面美化工具，搭配translucentTB,并清除图标后![效果如图](zhuomian.png)
+[下载地址](https://www.rainmeter.net/))
+美化资源包：[致美化](https://zhutix.com/)
 
 ## 8——todesk 
 远程控制工具 
