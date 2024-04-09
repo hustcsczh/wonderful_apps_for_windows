@@ -28,6 +28,12 @@
 状态栏美化工具🤩
  [下载地址](https://translucenttb.com/download/)
 
+
+## 8——rianmeter（雨滴组件）
+桌面美化工具，搭配translucentTB,并清除图标后![效果如图](zhuomian.png)
+[下载地址](https://www.rainmeter.net/))
+美化资源包：[致美化](https://zhutix.com/)
+
 ## 8——todesk 
 远程控制工具 
 [下载地址](https://www.todesk.com/)
