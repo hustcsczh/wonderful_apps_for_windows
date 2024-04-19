@@ -13,7 +13,7 @@
 ## 4——potplay & honeyview
 功能极强的影视频播放软件[potplayer](http://www.potplayercn.com/download) & 图片查看软件[honeyview](https://www.bandisoft.com/honeyview/)
 
-potplay配置文件已给出
+potplayer配置文件已给出
 
 (建议在系统中设为默认选项)
 
