@@ -10,6 +10,8 @@
 ## 3——geek 
 好用的`卸载工具`（轻松删除各种流氓软件，包括注册表的清除）
 
+[下载地址](https://geekuninstaller.com/)
+
 ## 4——potplay & honeyview
 功能极强的影视频播放软件[potplayer](http://www.potplayercn.com/download) & 图片查看软件[honeyview](https://www.bandisoft.com/honeyview/)
 
