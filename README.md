@@ -30,7 +30,7 @@ potplayer配置文件已给出
 
 ## 7——translucentTB
 状态栏美化工具🤩
- [下载地址](https://translucenttb.com/download/)
+ [下载地址](https://apps.microsoft.com/zh-cn/detail/9pf4kz2vn4w9)
 
 
 ## 8——rianmeter（雨滴组件）
