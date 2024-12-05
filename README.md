@@ -2,7 +2,7 @@
 # wonderful_apps_for_windows
 
 ## 1——bandizip 
-解压缩工具(专业版🙈)打开下载的文件，找到`bandizip.exe`双击即可
+解压缩工具(专业版)打开下载的文件，找到`bandizip.exe`双击即可
 
 ## 2—— IDM 
 下载工具 安装包和激活工具安装  [详细教程](https://lx87mmrw61t.feishu.cn/docx/UsKUdOO8EoP9EWxt6iycduNCnpc)
@@ -25,11 +25,11 @@ potplayer配置文件已给出
 可用作文件查找，软件打开工具[下载地址](https://www.listary.com/)
 
 ## 6——listen 1
-免费的听歌神器😋，支持所有主流音乐播放器登录同步 
+免费的听歌软件，支持所有主流音乐播放器登录同步 
 [下载地址](https://listen1.github.io/listen1/)
 
 ## 7——translucentTB
-状态栏美化工具🤩
+状态栏美化工具
  [下载地址](https://github.com/TranslucentTB/TranslucentTB/releases/download/2024.1/TranslucentTB-portable-x64.zip)
 
 
@@ -50,12 +50,12 @@ potplayer配置文件已给出
 **每次出现许可证到期再次点击补丁即可**
 
 ## 11——clash
-~~科学上网工具🫢~~
+~~科学上网工具~~
 
 1. 下载[Clash Verge](https://downlond.78321.xyz/Clash.Verge_1.4.7_x86-setup.exe)
 2. 购买节点
   + [购买订阅](https://smjcdh.com/#/plan)  
-  + [三毛机场🤐](https://smjcdh.com/#/register?code=SCExWauY) 
+  + [三毛机场](https://smjcdh.com/#/register?code=SCExWauY) 
 3. 照着网站教程做 
-4. 开始奖励🥵
+4. 开始奖励
 
